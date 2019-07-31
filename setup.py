@@ -6,7 +6,7 @@ setuptools.setup(
     author="Thales Ramos",
     author_email="thales.ramos@datameaning.com",
     description="A kafka handler class",
-    download_url="https://tramos8@jira.hilton.com/stash/scm/dna/automated-data-quality-monitoring.git",
+    download_url="https://github.com/ThalesMR/KafkaHandler.git",
     packages=setuptools.find_packages(),
     install_requires=[            # I get to this in a second
           'confluent_kafka'
